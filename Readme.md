@@ -1,7 +1,7 @@
 # Learning Python With Projects (Hang Man) 
 > Syntax - Comments, Prints, Variables, Strings, Integers, String Concatenations, Inputs, Comparison operators, Random(module), Functions, If/Else statements. For loops, and List(arrays).
 
-> https://youtu.be/odrbNYA0r7A
+> https://youtu.be/wnkn0CBNWdo
 
 ___
 
